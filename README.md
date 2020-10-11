@@ -13,3 +13,6 @@
 * All the pages in the website are responsive.
 
 
+To View Hosted Webiste, Please use this link : https://navya678.github.io/Assignment2/
+
+
